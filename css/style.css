@@ -1,0 +1,44 @@
+h1, h2, h3, h4, h5, h6, i {
+    color: #fff;
+}
+
+a {
+    color: #fff !important;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.navbar {
+    background: rgb(23, 22, 22);
+}
+
+.homepage_1 {
+    background: #584444;
+}
+
+.homepage_1 .col-md-5 {
+    border-right: 2px solid white;
+}
+
+.homepage_2 {
+    background: #383434;
+}
+
+.game_image {
+    border-right: 2px solid white;
+}
+
+.game_description {
+    border-right: 2px solid white;
+}
+
+.home_2_btn {
+    background: none;
+    outline: 2px solid rgb(0, 167, 0);
+    text-align: center;
+}
+
+.home_2_btn a{
+    color: rgb(0, 167, 0) !important;
+    font-size: 1rem;
+}
